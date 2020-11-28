@@ -19,5 +19,5 @@ this will work on most linux/ubutu systems (kali is best)
 
 if you use this program Its not my fault if you get in trouble with the law. 
 
-This is for educatonial purposes only!
+This is for educatonial purposes only!!
                                          
