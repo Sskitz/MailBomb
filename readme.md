@@ -7,7 +7,7 @@ Spam emails for fun ;)
 
 ### how to install 
 
-git clone https://github.com/skitz5674/MailBomb
+git clone https://github.com/Sskitz/MailBomb
 
 cd MailBomb 
 
