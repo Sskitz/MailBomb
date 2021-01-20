@@ -21,3 +21,4 @@ if you use this program Its not my fault if you get in trouble with the law.
 
 This is for educatonial purposes only!!
                                          
+Edit: v2 works in Repl.it 
